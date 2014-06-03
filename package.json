@@ -1,0 +1,31 @@
+{
+  "name": "glsl-extract-sync",
+  "version": "0.0.0",
+  "description": "A synchronous version of the glsl-extract module",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "glsl-extract": "0.0.2",
+    "through": "^2.3.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/glsl-extract-sync.git"
+  },
+  "keywords": [
+    "glsl",
+    "extract",
+    "sync",
+    "define",
+    "uniforms",
+    "attributes",
+    "webgl"
+  ],
+  "bugs": {
+    "url": "https://github.com/hughsk/glsl-extract-sync/issues"
+  },
+  "homepage": "https://github.com/hughsk/glsl-extract-sync"
+}
